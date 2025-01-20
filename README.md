@@ -76,11 +76,3 @@ Here are some of the cool projects I've worked on:
 > "Every line of code is an opportunity to create something extraordinary."
 
 ---
-
-## 🎥 **Animations & Fun Stuff**  
-
-![Wave](https://media.giphy.com/media/xUOxf45b7YBlTTxaQ0/giphy.gif)
-
-![Rocket](https://media.giphy.com/media/YQit0JlF4dJ08/giphy.gif)
-
-![Coding](https://media.giphy.com/media/3oz8xYoJ76wXbbmDQS/giphy.gif)
