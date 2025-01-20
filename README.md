@@ -42,14 +42,8 @@ Here are some of the cool projects I've worked on:
 
 ## 🖋️ **Featured Repositories**  
 
-- **[FiveM Custom Scripts](https://github.com/simplify/fivem-scripts)**  
+- **[FiveM | Weapon Jam Script](https://github.com/Simplifyxyz/CC-WeaponJam)**  
   A collection of my custom scripts designed to enhance gameplay on FiveM servers.
-
-- **[API Development Projects](https://github.com/simplify/api-projects)**  
-  Real-time APIs and integration tools for various applications.
-
-- **[Backend Solutions](https://github.com/simplify/backend-solutions)**  
-  Efficient backend systems designed for high availability and performance.
 
 ---
 
