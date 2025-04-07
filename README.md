@@ -1,41 +1,59 @@
-# 8lxd
+<h2 align="center">Hi, I'm 8lxd</h2>
 
-## 👋 Welcome to My GitHub!
-Hey there! I'm **8lxd**, a developer specializing in:
-- ⚙️ **Discord Bots** – Custom bots with powerful features and seamless interactions.
-- 🌐 **APIs** – Efficient and scalable API development.
-- 🎮 **FiveM Scripts** – Enhancing the roleplay experience with custom scripts.
-- 🖥️ **Web Development** – Creating sleek and functional websites.
+<h3 align="center">Languages I know</h3>
 
----
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=angular" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain-wordmark.svg" height="40" alt="discordjs logo"  />
+</div>
 
-## 🚀 What I Do
-🔹 Build advanced Discord bots with custom commands, moderation, and integrations.  
-🔹 Develop APIs for various applications and services.  
-🔹 Create **FiveM** scripts for enhanced roleplay mechanics.  
-🔹 Design and develop clean, modern, and responsive websites.  
+### 
 
----
+<br clear="both">
 
-## 🔗 Connect With Me
-- 🌟 **Discord**: `8lxd`
-- 🌍 **Website**: Coming Soon!
+### 
 
----
+<h3 align="center">I'm a developer focused on creating innovative scripts for FiveM, working with Lua, JavaScript, and more. <br> You can check out my public projects <a href="https://github.com/8lxd">here</a>.</h3>
 
-## 📌 Projects
-Check out my repositories for exciting projects, including:
-- Custom Discord bots with rich features
-- FiveM scripts for roleplay servers
-- API tools and services
-- Web development projects
+### 
 
-If you like my work, feel free to **star ⭐ my repositories** and follow me for updates!
+<h3 align="center">Previous Projects</h3>
 
----
-
-## 🤝 Contributions & Collaboration
-I'm always open to collaboration! If you have an idea or a project in mind, feel free to reach out.
-
-Happy coding! 🚀
-
+<div align="center">
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Languages</th>
+      <th>Link</th>
+    </tr>
+    <tr>
+      <td><strong>Vehicle Damage Overhaul (VDO)</strong></td>
+      <td>Lua</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><strong>FiveM Player Location Display</strong></td>
+      <td>Lua</td>
+      <td></td>
+    </tr>
+  </table>
+</div>
