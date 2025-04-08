@@ -37,11 +37,6 @@
       <th>Link</th>
     </tr>
     <tr>
-      <td><strong>Vehicle Damage Overhaul (VDO)</strong></td>
-      <td>Lua</td>
-      <td></td>
-    </tr>
-    <tr>
       <td><strong>FiveM Player Location Display</strong></td>
       <td>Lua</td>
       <td></td>
