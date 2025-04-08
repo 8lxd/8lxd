@@ -1,6 +1,3 @@
-<h2 align="center">Hi, I'm 8lxd</h2>
-
-<h3 align="center">Languages I know</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
@@ -29,12 +26,6 @@
 ### 
 
 <br clear="both">
-
-### 
-
-<h3 align="center">I'm a developer focused on creating innovative scripts for FiveM, working with Lua, JavaScript, and more. <br> You can check out my public projects <a href="https://github.com/8lxd">here</a>.</h3>
-
-### 
 
 <h3 align="center">Previous Projects</h3>
 
