@@ -22,24 +22,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain-wordmark.svg" height="40" alt="discordjs logo"  />
 </div>
-
-### 
-
-<br clear="both">
-
-<h3 align="center">Previous Projects</h3>
-
-<div align="center">
-  <table>
-    <tr>
-      <th>Project</th>
-      <th>Languages</th>
-      <th>Link</th>
-    </tr>
-    <tr>
-      <td><strong>FiveM Player Location Display</strong></td>
-      <td>Lua</td>
-      <td></td>
-    </tr>
-  </table>
-</div>
